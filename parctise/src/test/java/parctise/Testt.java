@@ -9,5 +9,6 @@ public class Testt {
 public void test1()
 {
 	WebDriver driver = new ChromeDriver();
+	driver.get("https://github.com/");
 }
 }
