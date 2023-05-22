@@ -13,7 +13,7 @@ public void test1()
 	driver.get("https://github.com/");
 	//pushing from eclipse
 	//vinaykumarvinay
-	//sai pulling from git
+	//sai pulling from github
 	//sai pushing from eclipse3z
 }
 }
